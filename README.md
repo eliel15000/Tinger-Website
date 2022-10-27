@@ -1,2 +1,2 @@
-# Tinger-Website
-Find your Tiger Today!
+TinGer:
+Where you can adopt the tiger of your dreams and become best friends.
